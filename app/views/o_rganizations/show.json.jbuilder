@@ -1,0 +1,1 @@
+json.partial! "o_rganizations/o_rganization", o_rganization: @o_rganization

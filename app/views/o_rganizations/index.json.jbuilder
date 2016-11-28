@@ -1,0 +1,1 @@
+json.array! @o_rganizations, partial: 'o_rganizations/o_rganization', as: :o_rganization
